@@ -1,0 +1,186 @@
+Display Name	Service Name (Registry)	DEFAULT Windows 8.1	DEFAULT Windows 8.1 Pro	DEFAULT Windows 8.1 Enterprise	Safe
+ActiveX Installer (AxInstSV)	AxInstSV	Manual	Manual	Manual	Manual
+App Readiness	AppReadiness	Manual	Manual	Manual	Manual
+Application Experience	AeLookupSvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Application Host Helper Service **	AppHostSvc	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Application Identity	AppIDSvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Application Information	Appinfo	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Application Layer Gateway Service	ALG	Manual	Manual	Manual	Manual
+AppX Development Service (AppXSVC)	AppXSVC	Manual	Manual	Manual	Manual
+Application Management	AppMgmt	Not Available	Manual	Manual	Disabled *
+ASP.NET State Service **	aspnet_state	Not Installed (Manual)	Not Installed (Manual)	Not Installed (Manual)	Not Installed
+Background Intelligent Transfer Service	BITS	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start)
+Background Tasks Infrastructure Service	BrokerInfrastructure	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Base Filtering Engine	BFE	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+BitLocker Drive Encryption Service	BDESVC	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Block Level Backup Engine Service	wbengine	Manual	Manual	Manual	Manual
+Bluetooth Support Service	bthserv	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+BranchCache	PeerDistSvc	Not Available	Manual	Manual	Disabled *
+Certificate Propagation	CertPropSvc	Manual	Manual	Manual	Disabled *
+Claims to Windows Token Service **	c2wts	Not Installed (Manual)	Not Installed (Manual)	Not Installed (Manual)	Not Installed
+Client for NFS	NfsClnt	Not Available	Not Available	Not Available	Disabled *
+CNG Key Isolation	KeyIso	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+COM+ Event System	EventSystem	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+COM+ System Application	COMSysApp	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Computer Browser	Browser	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Credential Manager	VaultSvc	Manual	Manual	Manual	Manual
+Cryptographic Services	CryptSvc	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+DCOM Server Process Launcher	DcomLaunch	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Device Association Service	DeviceAssociationService	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+Device Install Service	DeviceInstall	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Device Setup Manager	DsmSVC	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+DHCP Client	Dhcp	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Diagnostic Policy Service	DPS	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Diagnostic Service Host	WdiServiceHost	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Diagnostic System Host	WdiSystemHost	Manual	Manual	Manual	Manual
+Distributed Link Tracking Client	TrkWks	Automatic (Started)	Automatic (Started)	Automatic (Started)	Disabled *
+Distributed Transaction Coordinator	MSDTC	Manual	Manual	Manual	Manual
+DNS Client	Dnscache	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+DS Role Server **	DsRoleSvc	Not Available	Not Available	Not Available	Not Installed
+Encrypting File System (EFS)	EFS	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Extensible Authentication Protocol	EapHost	Manual	Manual	Manual	Manual
+Family Safety	WPCSvc	Manual	Manual	Manual	Disabled *
+Fax **	Fax	Manual	Manual	Manual	Manual
+File History Service	fhsvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Function Discovery Provider Host	fdPHost	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Function Discovery Resource Publication	FDResPub	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Group Policy Client	gpsvc	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+Health Key and Certificate Management	hkmsvc	Manual	Manual	Manual	Manual
+HomeGroup Listener	HomeGroupListener	Manual	Manual	Manual	Manual
+HomeGroup Provider	HomeGroupProvider	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Human Interface Device Access	hidserv	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Hyper-V Data Exchange Service	vmickvpexchange	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Guest Service Interface	vmicguestinterface	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Guest Shutdown Service	vmicshutdown	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Heartbeat Service	vmicheartbeat	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Remote Desktop Virtualization Service	vmicrdv	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Time Synchronization Service	vmictimesync	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Hyper-V Volume Shadow Copy Requestor	vmicvss	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+IIS Admin Service **	IISADMIN	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+IKE and AuthIP IPsec Keying Modules	IKEEXT	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Interactive Services Detection	UI0Detect	Manual	Manual	Manual	Manual
+Internet Connection Sharing (ICS)	SharedAccess	Disabled	Disabled	Disabled	Disabled
+Internet Explorer ETW Collector Service	IEEtwCollectorService	Manual	Manual	Manual	Disabled *
+IP Helper	iphlpsvc	Automatic (Started)	Automatic (Started)	Automatic (Started)	Disabled *
+IPsec Policy Agent	PolicyAgent	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+KtmRm for Distributed Transaction Coordinator	KtmRm	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Link-Layer Topology Discovery Mapper	lltdsvc	Manual	Manual	Manual	Manual
+Local Session Manager	LSM	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+LPD Service **	LPDSVC	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Message Queuing Triggers **	MSMQTriggers	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Message Queuing **	MSMQ	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Microsoft Account Sign-in Assistant	wlidsvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Microsoft FTP Service **	ftpsvc	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Microsoft iSCSI Initiator Service	MSiSCSI	Manual	Manual	Manual	Disabled *
+Microsoft Software Shadow Copy Provider	swprv	Manual (Started at boot, then stops)	Manual (Started at boot, then stops)	Manual (Started at boot, then stops)	Manual
+Multimedia Class Scheduler	MMCSS	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Net.Msmq Listener Adapter **	NetMsmqActivator	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Net.Pipe Listener Adapter **	NetPipeActivator	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Net.Tcp Listener Adapter **	NetTcpActivator	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Net.Tcp Port Sharing Service **	NetTcpPortSharing	Disabled (Changed to Manual and Started if the previous 3 Services are installed)	Disabled (Changed to Manual and Started if the previous 3 Services are installed)	Disabled (Changed to Manual and Started if the previous 3 Services are installed)	Uninstalled *
+Netlogon	Netlogon	Manual	Manual	Manual	Disabled *
+Network Access Protection Agent	napagent	Manual	Manual	Manual	Disabled *
+Network Connected Devices Auto-Setup	NcdAutoSetup	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Network Connection Broker	NcbService	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Network Connections	Netman	Manual	Manual	Manual	Manual
+Network Connectivity Assistant	NcaSVC	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Network List Service	netprofm	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Network Location Awareness	NlaSvc	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Network Store Interface Service	nsi	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Offline Files	CscService	Not Available	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Disabled *
+Optimize Drives	defragsvc	Manual	Manual	Manual	Manual
+Peer Name Resolution Protocol	PNRPsvc	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Peer Networking Grouping	p2psvc	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Peer Networking Identity Manager	p2pimsvc	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Performance Logs & Alerts	pla	Manual	Manual	Manual	Manual
+Plug and Play	PlugPlay	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+PNRP Machine Name Publication Service	PNRPAutoReg	Manual	Manual	Manual	Manual
+Portable Device Enumerator Service	WPDBusEnum	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Power	Power	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Print Spooler	Spooler	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Printer Extensions and Notifications	PrintNotify	Manual	Manual	Manual	Manual
+Problem Reports and Solutions Control Panel Support	wercplsupport	Manual	Manual	Manual	Manual
+Program Compatibility Assistant Service	PcaSvc	Automatic	Automatic	Automatic	Automatic
+Quality Windows Audio Video Experience	QWAVE	Manual	Manual	Manual	Manual
+Remote Access Auto Connection Manager	RasAuto	Manual	Manual	Manual	Manual
+Remote Access Connection Manager	RasMan	Manual	Manual	Manual	Manual
+Remote Desktop Configuration	SessionEnv	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual
+Remote Desktop Services UserMode Port Redirector	UmRdpService	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual
+Remote Desktop Services	TermService	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual (Maybe Started when using Remote Desktop)	Manual
+Remote Procedure Call (RPC)	RpcSs	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Remote Procedure Call (RPC) Locator	RpcLocator	Manual	Manual	Manual	Disabled *
+Remote Registry	RemoteRegistry	Disabled	Disabled	Disabled	Disabled
+RIP Listener **	iprip	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Routing and Remote Access	RemoteAccess	Disabled	Disabled	Disabled	Disabled
+RPC Endpoint Mapper	RpcEptMapper	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Secondary Logon	seclogon	Manual	Manual	Manual	Manual
+Secure Socket Tunneling Protocol Service	SstpSvc	Manual	Manual	Manual	Manual
+Security Accounts Manager	SamSs	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Security Center	wscsvc	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start)
+Sensor Monitoring Service	SensrSvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Server	LanmanServer	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Shell Hardware Detection	ShellHWDetection	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Simple TCP/IP Services **	simptcp	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+Smart Card	SCardSvr	Disabled	Disabled	Disabled	Disabled
+Smart Card Device Enumeration Service	ScDeviceEnum	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Smart Card Removal Policy	SCPolicySvc	Manual	Manual	Manual	Disabled *
+SNMP Service **	SNMP	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+SNMP Trap	SNMPTRAP	Manual	Manual	Manual	Disabled *
+Software Protection	sppsvc	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start)
+Spot Verifier	svsvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+SSDP Discovery	SSDPSRV	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Still Image Acquisition Events	WiaRpc	Manual	Manual	Manual	Manual
+Storage Service	StorSvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Superfetch	SysMain	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+System Event Notification Service	SENS	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+System Events Broker	SystemEventsBroker	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+Task Scheduler	Schedule	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+TCP/IP NetBIOS Helper	lmhosts	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+Telephony	TapiSrv	Manual	Manual	Manual	Manual
+Telnet **	TlntSvr	Not Installed (Disabled)	Not Installed (Disabled)	Not Installed (Disabled)	Not Installed
+Themes	Themes	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Thread Ordering Server	THREADORDER	Manual	Manual	Manual	Manual
+Time Broker	TimeBroker	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual (Trigger Start, Started)	Manual
+Touch Keyboard and Handwriting Panel Service	TabletInputService	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+UPnP Device Host	upnphost	Manual	Manual	Manual	Manual
+User Profile Service	ProfSvc	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Virtual Disk	vds	Manual	Manual	Manual	Manual
+Volume Shadow Copy	VSS	Manual	Manual	Manual	Manual
+Web Management Service **	WMSVC	Not Installed (Manual)	Not Installed (Manual)	Not Installed (Manual)	Not Installed
+WebClient	WebClient	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Audio	AudioSrv	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Audio Endpoint Builder	AudioEndpointBuilder	Automatic (Started)	Automatic (Started)	Automatic (Started)	 Automatic
+Windows Biometric Service	WbioSrvc	Manual	Manual	Manual	Disabled *
+Windows Color System	WcsPlugInService	Manual	Manual	Manual	Manual
+Windows Connect Now - Config Registrar	wcncsvc	Manual	Manual	Manual	Disabled *
+Windows Connection Manager	Wcmsvc	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic (Trigger Start, Started)	Automatic
+Windows Defender Network Inspection Service	WdNisSvc	Manual	Manual	Manual	Manual
+Windows Defender Service	WinDefend	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Driver Foundation - User-mode Driver Framework	wudfsvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Encryption Provider Host Service	WEPHOSTSVC	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Error Reporting Service	WerSvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Event Collector	Wecsvc	Manual	Manual	Manual	Manual
+Windows Event Log	EventLog	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Firewall	MpsSvc	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Font Cache Service	FontCache	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Image Acquisition (WIA)	StiSvc	Manual	Manual	Manual	Manual
+Windows Installer	msiserver	Manual	Manual	Manual	Manual
+Windows Location Framework Service	lfsvc	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Disabled *
+Windows Management Instrumentation	Winmgmt	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+Windows Media Player Network Sharing Service **	WMPNetworkSvc	Manual	Manual	Manual	Disabled * (Uninstalled)
+Windows Modules Installer	TrustedInstaller	Manual	Manual	Manual	Manual
+Windows Presentation Foundation Font Cache 3.0.0.0 **	FontCache3.0.0.0	Not Installed (Manual)	Not Installed (Manual)	Not Installed (Manual)	Not Installed
+Windows Process Activation Service **	WAS	Not Installed (Manual, Started)	Not Installed (Manual, Started)	Not Installed (Manual, Started)	Not Installed
+Windows Remote Management (WS-Management)	WinRM	Manual	Manual	Manual	Manual
+Windows Search **	WSearch	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start, Started)	Automatic (Delayed Start)
+Windows Store Service (WSService)	WSService	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Time	W32Time	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+Windows Update	wuauserv	Manual (Trigger Start)	Manual (Trigger Start)	Manual (Trigger Start)	Manual
+WinHTTP Web Proxy Auto-Discovery Service	WinHttpAutoProxySvc	Manual (Started)	Manual (Started)	Manual (Started)	Manual
+Wired AutoConfig	dot3svc	Manual	Manual	Manual	Manual
+WLAN AutoConfig	WlanSvc	Manual (Automatic with Wireless Card Installed)	Manual (Automatic with Wireless Card Installed)	Manual (Automatic with Wireless Card Installed)	Manual
+WMI Performance Adapter	wmiApSrv	Manual	Manual	Manual	Manual
+Work Folders	workfolderssvc	Manual	Manual	Manual	Manual
+Workstation	LanmanWorkstation	Automatic (Started)	Automatic (Started)	Automatic (Started)	Automatic
+World Wide Web Publishing Service **	W3SVC	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed (Automatic, Started)	Not Installed
+WWAN AutoConfig	WwanSvc	Manual	Manual	Manual	Manual

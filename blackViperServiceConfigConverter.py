@@ -7,8 +7,10 @@
 #
 ######################################################################################
 
+import sys
 
-filename = "configuration.txt"
+filename = sys.argv[1]
+
 with open(filename) as f:
   lis = [x.split("\t") for x in f]
 
