@@ -1,0 +1,89 @@
+Display Name	Process Name	DEFAULT Home	DEFAULT Pro	"SAFE"	Power User	Bare-bones
+Alerter	svchost.exe	Manual	Manual	Disabled	Disabled	Disabled
+Application Layer Gateway Service	alg.exe	Manual	Manual	Manual	Disabled	Disabled
+Application Management	svchost.exe	Manual	Manual	Disabled	Disabled	Disabled
+Automatic Updates	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Background Intelligent Transfer Service	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+ClipBook	clipsrv.exe	Manual	Manual	Disabled	Disabled	Disabled
+COM+ Event System	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+COM+ System Application	dllhost.exe	Manual	Manual	Manual	Disabled	Disabled
+Computer Browser	svchost.exe	Automatic	Automatic	Automatic	Automatic	Disabled
+Cryptographic Services	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+DHCP Client	svchost.exe	Automatic	Automatic	Automatic	Automatic	Disabled
+Distributed Link Tracking Client	svchost.exe	Automatic	Automatic	Manual	Disabled	Disabled
+Distributed Transaction Coordinator	msdtc.exe	Manual	Manual	Manual	Disabled	Disabled
+DNS Client	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Error Reporting Service	svchost.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+Event Log	services.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+Fast User Switching Compatibility	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Fax Service	fxssvc.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+FTP Publishing Service	inetinfo.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
+Help and Support	svchost.exe	Automatic	Automatic	Manual	Disabled	Disabled
+Human Interface Device Access	svchost.exe	Disabled	Disabled	Disabled	Disabled	Disabled
+IIS Admin	inetinfo.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
+IMAPI CD-Burning COM Service	imapi.exe	Manual	Manual	Manual	Disabled	Disabled
+Indexing Service	cisvc.exe	Manual	Manual	Disabled	Disabled	Disabled
+Internet Connection Firewall/Internet Connection Sharing	svchost.exe	Manual	Automatic	Automatic	Disabled	Disabled
+IPSEC Services	lsass.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Logical Disk Manager	svchost.exe	Manual	Automatic	Manual	Disabled	Disabled
+Logical Disk Manager Administrative Service	dmadmin.exe	Manual	Manual	Manual	Disabled	Disabled
+Message Queuing	mqsvc.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
+Message Queuing Triggers	mqtgsvc.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
+Messenger	services.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+MS Software Shadow Copy Provider	dllhost.exe	Manual	Manual	Manual	Disabled	Disabled
+Net Logon	lsass.exe	Manual	Automatic	Disabled	Disabled	Disabled
+NetMeeting Remote Desktop Sharing	mnmsrvc.exe	Manual	Manual	Disabled	Disabled	Disabled
+Network Connections	svchost.exe	Manual	Manual	Manual	Manual	Manual
+Network DDE	netdde.exe	Manual	Manual	Disabled	Disabled	Disabled
+Network DDE DSDM	netdde.exe	Manual	Manual	Disabled	Disabled	Disabled
+Network Location Awareness (NLA)	svchost.exe	Manual	Manual	Manual	Manual	Disabled
+NT LM Security Support Provider	lsass.exe	Manual	Manual	Manual	Manual	Disabled
+Performance Logs and Alerts	smlogsvc.exe	Manual	Manual	Manual	Disabled	Disabled
+Plug and Play	services.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+Portable Media Serial Number	svchost.exe	Manual	Manual	Disabled	Disabled	Disabled
+Print Spooler	spoolsv.exe	Automatic	Automatic	Automatic	Automatic	Disabled
+Protected Storage	lsass.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+QoS RSVP	rsvp.exe	Manual	Manual	Disabled	Disabled	Disabled
+Remote Access Auto Connection Manager	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Remote Access Connection Manager	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Remote Desktop Help Session Manager	sessmgr.exe	Manual	Manual	Disabled	Disabled	Disabled
+Remote Procedure Call (RPC)	svchost.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+Remote Procedure Call (RPC) Locator	locator.exe	Manual	Manual	Manual	Manual	Disabled
+Remote Registry	svchost.exe	Not Available	Automatic	Disabled	Disabled	Disabled
+Removable Storage	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+RIP Listener	svchost.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+Routing and Remote Access	svchost.exe	Disabled	Manual	Disabled	Disabled	Disabled
+Secondary Logon	svchost.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+Security Accounts Manager	lsass.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Server	svchost.exe	Automatic	Automatic	Automatic	Automatic	Disabled
+Shell Hardware Detection	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Simple Mail Transport Protocol (SMTP)	inetinfo.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
+Simple TCP/IP Services	tcpsvcs.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+Smart Card	SCardSvr.exe	Manual	Manual	Disabled	Disabled	Disabled
+Smart Card Helper	SCardSvr.exe	Manual	Manual	Disabled	Disabled	Disabled
+SNMP Service	snmp.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+SNMP Trap Service	snmptrap.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+SSDP Discovery Service	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+System Event Notification	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+System Restore Service	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Task Scheduler	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+TCP/IP NetBIOS Helper Service	svchost.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+TCP/IP Printer Server	tcpsvcs.exe	Not Installed	Not Installed	Not Installed	Not Installed	Not Installed
+Telephony	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Telnet	tlntsvr.exe	Not Available	Manual	Disabled	Disabled	Disabled
+Terminal Services	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Themes	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+Uninterruptible Power Supply	ups.exe	Manual	Manual	Disabled	Disabled	Disabled
+Universal Plug and Play Device Host	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Volume Shadow Copy	vssvc.exe	Manual	Manual	Manual	Disabled	Disabled
+WebClient	svchost.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+Windows Audio	svchost.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+Windows Image Acquisition (WIA)	svchost.exe	Manual	Manual	Manual	Disabled	Disabled
+Windows Installer	msiexec.exe	Manual	Manual	Manual	Manual	Manual
+Windows Management Instrumentation	svchost.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+Windows Management Instrumentation Driver Extension	svchost.exe	Not Available	Manual	Manual	Manual	Disabled
+Windows Time	svchost.exe	Automatic	Automatic	Disabled	Disabled	Disabled
+Wireless Zero Configuration	svchost.exe	Automatic	Automatic	Automatic	Disabled	Disabled
+WMI Performance Adapter	wmiapsrv.exe	Manual	Manual	Disabled	Disabled	Disabled
+Workstation	svchost.exe	Automatic	Automatic	Automatic	Automatic	Automatic
+World Wide Web Publishing Service	inetinfo.exe	Not Available	Not Installed	Not Installed	Not Installed	Not Installed
