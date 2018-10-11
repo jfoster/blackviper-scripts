@@ -17,21 +17,17 @@ Set-Service "ERSvc" -StartupType Automatic
 Set-Service "Eventlog" -StartupType Automatic 
 Set-Service "EapHost" -StartupType Manual 
 Set-Service "FastUserSwitchingCompatibility" -StartupType Manual 
-Set-Service "MSFtpsvc" -StartupType Not Available 
 Set-Service "hkmsvc" -StartupType Manual 
 Set-Service "helpsvc" -StartupType Automatic 
 Set-Service "HTTPFilter" -StartupType Manual 
 Set-Service "HidServ" -StartupType Disabled 
-Set-Service "IISADMIN" -StartupType Not Available 
 Set-Service "ImapiService" -StartupType Manual 
 Set-Service "cisvc" -StartupType Automatic 
 Set-Service "PolicyAgent" -StartupType Automatic 
-Set-Service "dmserver" -StartupType Manual 
+Set-Service "dmserver" -StartupType Automatic 
 Set-Service "dmadmin" -StartupType Manual 
 Set-Service "ehRecvr" -StartupType Not Available 
 Set-Service "ehSched" -StartupType Not Available 
-Set-Service "MSMQ" -StartupType Not Available 
-Set-Service "MSMQTriggers" -StartupType Not Available 
 Set-Service "Messenger" -StartupType Disabled 
 Set-Service "MHN" -StartupType Not Available 
 Set-Service "SwPrv" -StartupType Manual 
@@ -55,7 +51,7 @@ Set-Service "RasMan" -StartupType Manual
 Set-Service "RDSessMgr" -StartupType Manual 
 Set-Service "RpcSs" -StartupType Automatic 
 Set-Service "RpcLocator" -StartupType Manual 
-Set-Service "RemoteRegistry" -StartupType Not Available 
+Set-Service "RemoteRegistry" -StartupType Automatic 
 Set-Service "NtmsSvc" -StartupType Manual 
 Set-Service "RemoteAccess" -StartupType Disabled 
 Set-Service "seclogon" -StartupType Automatic 
@@ -63,7 +59,6 @@ Set-Service "SamSs" -StartupType Automatic
 Set-Service "wscsvc" -StartupType Automatic 
 Set-Service "lanmanserver" -StartupType Automatic 
 Set-Service "ShellHWDetection" -StartupType Automatic 
-Set-Service "SMTPSVC" -StartupType Not Available 
 Set-Service "SCardSvr" -StartupType Manual 
 Set-Service "SSDPSRV" -StartupType Manual 
 Set-Service "SENS" -StartupType Automatic 
@@ -71,7 +66,7 @@ Set-Service "srservice" -StartupType Automatic
 Set-Service "Schedule" -StartupType Automatic 
 Set-Service "LmHosts" -StartupType Automatic 
 Set-Service "TapiSrv" -StartupType Manual 
-Set-Service "TlntSvr" -StartupType Not Available 
+Set-Service "TlntSvr" -StartupType Disabled 
 Set-Service "TermService" -StartupType Manual 
 Set-Service "Themes" -StartupType Automatic 
 Set-Service "UPS" -StartupType Manual 
@@ -83,10 +78,9 @@ Set-Service "SharedAccess" -StartupType Automatic
 Set-Service "stisvc" -StartupType Manual 
 Set-Service "MSIServer" -StartupType Manual 
 Set-Service "winmgmt" -StartupType Automatic 
-Set-Service "Wmi" -StartupType Not Available 
+Set-Service "Wmi" -StartupType Manual 
 Set-Service "W32Time" -StartupType Automatic 
 Set-Service "Dot3svc" -StartupType Manual 
 Set-Service "WZCSVC" -StartupType Automatic 
 Set-Service "WmiApSrv" -StartupType Manual 
 Set-Service "lanmanworkstation" -StartupType Automatic 
-Set-Service "w3svc" -StartupType Not Available 
